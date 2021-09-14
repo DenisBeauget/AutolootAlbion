@@ -2,7 +2,7 @@
 
 # Little reminder : this application helps you go faster but does not touch any file in the game, only basic mouse movement and simple left click.
 
-# Version 0.1 only support 1080x720 resolution screen, Azentia#2272 on discord for information about other resolution.
+# Version 0.1 only support 1920x1080 resolution screen, Azentia#2272 on discord for information about other resolution.
 
 
 # How to use : 
